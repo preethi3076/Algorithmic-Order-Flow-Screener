@@ -3,3 +3,5 @@ __pycache__/
 session_state.json
 .DS_Store
 .streamlit/
+stonk traker.md
+strategy_rules.md
